@@ -24,5 +24,6 @@ The Light Wallet is decentralized, allowing users to create private keys locally
 
 ### The easter testing node deploied by SERO team can be accessed via the following Url
 
-> `http://148.70.169.73:8586`
+> `http://148.70.169.73:8586` or
+> `https://sero-cash.github.io/easter-node/`
 
